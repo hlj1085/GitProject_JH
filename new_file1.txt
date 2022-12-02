@@ -1,2 +1,5 @@
 Hello! My name is Jeong Hyeri.
 Kumoh National Instiute of Technology.
+
+Computer Sciences
+C Programming
